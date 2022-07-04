@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="SlitherLib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../Libraries/kryonet-2.21/jars/production/onejar/kryonet-2.21-all.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Libraries/gson-2.8.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Libraries/joml-1.10.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
